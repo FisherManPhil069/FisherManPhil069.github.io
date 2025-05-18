@@ -1,0 +1,44 @@
+h1 {
+    color:deepskyblue; 
+     
+        font-size: 96px;
+    font-style: italic;
+  
+    }
+h2 {
+    font-size: 69px;
+    color: darkturquoise;
+font-style:italic;
+
+}
+   
+p{ 
+    font-size: 24px; 
+color: dodgerblue;
+background-color: cornsilk;
+
+}
+
+
+Body {
+    background-color:antiquewhite;
+    border:navy ;
+    border-width: 12px;
+    border-style: solid;
+    text-align: center;
+}
+img{
+    height: 480px;
+width: 640px;
+
+}
+
+
+Header{
+    font-size: 48px;
+    font-style:initial;
+    color:black;
+    text-align: left;
+    background-color:azure;
+    font-style: oblique;
+}

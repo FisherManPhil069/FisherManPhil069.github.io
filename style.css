@@ -1,0 +1,118 @@
+p{
+    border: 2px;
+    border-style: dashed;
+    border-color:crimson;
+    font-size: 32px;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+#header-border {
+    height: 122px;
+ 
+
+}
+
+#title {
+    color: white;
+}
+
+#logo{
+    border: 1px;
+    border-style: dashed;
+    border-color: pink;
+    margin: 10px 50px;
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+header{
+    width: 1220px;
+    margin: 10px auto;
+    vertical-align: middle;
+
+}
+
+#banner{
+    float: left;
+    height: 120px;
+    display: flex;
+    align-items: center;
+}
+
+h1{
+    font-size: 56px;
+    text-align: center;
+}
+
+#main-content-area{
+   width: 100%;
+   margin: 0 auto;
+   border: 2px;
+   border-style: dashed;
+   border-color:pink; 
+}
+
+#navbar{
+    height: auto;
+    text-align: center;
+    border: 4px;
+    border-style: solid;
+    border-color: red;
+    vertical-align: middle;
+}
+
+@font-face {
+    font-family: 'rock';
+    src: url('Blackthorn-axq6a.ttf') format('truetype');
+}
+
+#footer{
+    border: 1px;
+    border-style: dashed;
+    border-color: white;
+    margin: auto;
+    width: auto;
+}
+
+body{
+    border: 4px;
+    border-style: solid;
+    border-color: black;
+    font-family: 'rock';
+    background-color: black;
+    color:cyan;
+    
+}
+
+header{
+    width: 1220px;
+    margin: 10px auto;
+    vertical-align: middle;
+
+
+
+}
+
+
+.nav-link {
+    height: 30px;
+    width: 200px;
+    display: inline-block;
+    margin: 10px;
+    vertical-align: middle;
+    border: 4px;
+    border-style: solid;
+    border-color: red;
+    font-size: 30px;
+}
+
+.nav-link:hover {
+    background-color: #a85959;
+}
+
+
